@@ -53,7 +53,8 @@ article {
 /* Style the footer */
 footer {
   background-color: #777;
-  padding: 10px;
+  padding: 30px;
+  font-size: 35px;
   text-align: center;
   color: white;
 }
